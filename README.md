@@ -1,0 +1,2 @@
+# Ajax
+Simple Ajax request
